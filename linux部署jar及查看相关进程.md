@@ -19,3 +19,7 @@ $ ps -ef|grep java
 ```
 $ kill -9 pid
 ```
+### 查看日志
+```
+$ tail -n 1000 payment.log
+```
