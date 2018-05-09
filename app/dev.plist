@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>hxj.app</string>
+				<string>com.xpmetal.dev.Encircle</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
